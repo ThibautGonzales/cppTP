@@ -6,6 +6,11 @@
 },
 {
   "directory": "/mnt/local.isima.fr/thgonzales1/ZZ3/cpp/TP1/tp_1/build",
+  "command": "/usr/bin/c++  -I/mnt/local.isima.fr/thgonzales1/ZZ3/cpp/TP1/tp_1/src -Wall -Wextra -pedantic  -std=gnu++17 -o CMakeFiles/common.dir/src/nuage.cpp.o -c /mnt/local.isima.fr/thgonzales1/ZZ3/cpp/TP1/tp_1/src/nuage.cpp",
+  "file": "/mnt/local.isima.fr/thgonzales1/ZZ3/cpp/TP1/tp_1/src/nuage.cpp"
+},
+{
+  "directory": "/mnt/local.isima.fr/thgonzales1/ZZ3/cpp/TP1/tp_1/build",
   "command": "/usr/bin/c++  -I/mnt/local.isima.fr/thgonzales1/ZZ3/cpp/TP1/tp_1/src -Wall -Wextra -pedantic  -std=gnu++17 -o CMakeFiles/common.dir/src/point.cpp.o -c /mnt/local.isima.fr/thgonzales1/ZZ3/cpp/TP1/tp_1/src/point.cpp",
   "file": "/mnt/local.isima.fr/thgonzales1/ZZ3/cpp/TP1/tp_1/src/point.cpp"
 },

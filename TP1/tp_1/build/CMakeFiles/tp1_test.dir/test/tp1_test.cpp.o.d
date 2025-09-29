@@ -219,4 +219,7 @@ CMakeFiles/tp1_test.dir/test/tp1_test.cpp.o: \
  /mnt/local.isima.fr/thgonzales1/ZZ3/cpp/TP1/tp_1/src/cartesien.hpp \
  /usr/include/c++/12/iostream \
  /mnt/local.isima.fr/thgonzales1/ZZ3/cpp/TP1/tp_1/src/point.hpp \
- /mnt/local.isima.fr/thgonzales1/ZZ3/cpp/TP1/tp_1/src/polaire.hpp
+ /mnt/local.isima.fr/thgonzales1/ZZ3/cpp/TP1/tp_1/src/polaire.hpp \
+ /mnt/local.isima.fr/thgonzales1/ZZ3/cpp/TP1/tp_1/src/cartesien.hpp \
+ /mnt/local.isima.fr/thgonzales1/ZZ3/cpp/TP1/tp_1/src/polaire.hpp \
+ /mnt/local.isima.fr/thgonzales1/ZZ3/cpp/TP1/tp_1/src/nuage.hpp

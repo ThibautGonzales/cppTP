@@ -83,10 +83,24 @@ CMakeFiles/common.dir/src/cartesien.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/common.dir/src/cartesien.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/local.isima.fr/thgonzales1/ZZ3/cpp/TP1/tp_1/src/cartesien.cpp -o CMakeFiles/common.dir/src/cartesien.cpp.s
 
+CMakeFiles/common.dir/src/nuage.cpp.o: CMakeFiles/common.dir/flags.make
+CMakeFiles/common.dir/src/nuage.cpp.o: /mnt/local.isima.fr/thgonzales1/ZZ3/cpp/TP1/tp_1/src/nuage.cpp
+CMakeFiles/common.dir/src/nuage.cpp.o: CMakeFiles/common.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/local.isima.fr/thgonzales1/ZZ3/cpp/TP1/tp_1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/common.dir/src/nuage.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/common.dir/src/nuage.cpp.o -MF CMakeFiles/common.dir/src/nuage.cpp.o.d -o CMakeFiles/common.dir/src/nuage.cpp.o -c /mnt/local.isima.fr/thgonzales1/ZZ3/cpp/TP1/tp_1/src/nuage.cpp
+
+CMakeFiles/common.dir/src/nuage.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/common.dir/src/nuage.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/local.isima.fr/thgonzales1/ZZ3/cpp/TP1/tp_1/src/nuage.cpp > CMakeFiles/common.dir/src/nuage.cpp.i
+
+CMakeFiles/common.dir/src/nuage.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/common.dir/src/nuage.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/local.isima.fr/thgonzales1/ZZ3/cpp/TP1/tp_1/src/nuage.cpp -o CMakeFiles/common.dir/src/nuage.cpp.s
+
 CMakeFiles/common.dir/src/point.cpp.o: CMakeFiles/common.dir/flags.make
 CMakeFiles/common.dir/src/point.cpp.o: /mnt/local.isima.fr/thgonzales1/ZZ3/cpp/TP1/tp_1/src/point.cpp
 CMakeFiles/common.dir/src/point.cpp.o: CMakeFiles/common.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/local.isima.fr/thgonzales1/ZZ3/cpp/TP1/tp_1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/common.dir/src/point.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/local.isima.fr/thgonzales1/ZZ3/cpp/TP1/tp_1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/common.dir/src/point.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/common.dir/src/point.cpp.o -MF CMakeFiles/common.dir/src/point.cpp.o.d -o CMakeFiles/common.dir/src/point.cpp.o -c /mnt/local.isima.fr/thgonzales1/ZZ3/cpp/TP1/tp_1/src/point.cpp
 
 CMakeFiles/common.dir/src/point.cpp.i: cmake_force
@@ -100,7 +114,7 @@ CMakeFiles/common.dir/src/point.cpp.s: cmake_force
 CMakeFiles/common.dir/src/polaire.cpp.o: CMakeFiles/common.dir/flags.make
 CMakeFiles/common.dir/src/polaire.cpp.o: /mnt/local.isima.fr/thgonzales1/ZZ3/cpp/TP1/tp_1/src/polaire.cpp
 CMakeFiles/common.dir/src/polaire.cpp.o: CMakeFiles/common.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/local.isima.fr/thgonzales1/ZZ3/cpp/TP1/tp_1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/common.dir/src/polaire.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/local.isima.fr/thgonzales1/ZZ3/cpp/TP1/tp_1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/common.dir/src/polaire.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/common.dir/src/polaire.cpp.o -MF CMakeFiles/common.dir/src/polaire.cpp.o.d -o CMakeFiles/common.dir/src/polaire.cpp.o -c /mnt/local.isima.fr/thgonzales1/ZZ3/cpp/TP1/tp_1/src/polaire.cpp
 
 CMakeFiles/common.dir/src/polaire.cpp.i: cmake_force
@@ -112,6 +126,7 @@ CMakeFiles/common.dir/src/polaire.cpp.s: cmake_force
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/local.isima.fr/thgonzales1/ZZ3/cpp/TP1/tp_1/src/polaire.cpp -o CMakeFiles/common.dir/src/polaire.cpp.s
 
 common: CMakeFiles/common.dir/src/cartesien.cpp.o
+common: CMakeFiles/common.dir/src/nuage.cpp.o
 common: CMakeFiles/common.dir/src/point.cpp.o
 common: CMakeFiles/common.dir/src/polaire.cpp.o
 common: CMakeFiles/common.dir/build.make

@@ -90,11 +90,13 @@ tp1_point_OBJECTS = \
 # External object files for target tp1_point
 tp1_point_EXTERNAL_OBJECTS = \
 "/mnt/local.isima.fr/thgonzales1/ZZ3/cpp/TP1/tp_1/build/CMakeFiles/common.dir/src/cartesien.cpp.o" \
+"/mnt/local.isima.fr/thgonzales1/ZZ3/cpp/TP1/tp_1/build/CMakeFiles/common.dir/src/nuage.cpp.o" \
 "/mnt/local.isima.fr/thgonzales1/ZZ3/cpp/TP1/tp_1/build/CMakeFiles/common.dir/src/point.cpp.o" \
 "/mnt/local.isima.fr/thgonzales1/ZZ3/cpp/TP1/tp_1/build/CMakeFiles/common.dir/src/polaire.cpp.o"
 
 tp1_point: CMakeFiles/tp1_point.dir/src/main_point.cpp.o
 tp1_point: CMakeFiles/common.dir/src/cartesien.cpp.o
+tp1_point: CMakeFiles/common.dir/src/nuage.cpp.o
 tp1_point: CMakeFiles/common.dir/src/point.cpp.o
 tp1_point: CMakeFiles/common.dir/src/polaire.cpp.o
 tp1_point: CMakeFiles/tp1_point.dir/build.make

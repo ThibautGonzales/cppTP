@@ -90,11 +90,13 @@ tp1_vecteur_OBJECTS = \
 # External object files for target tp1_vecteur
 tp1_vecteur_EXTERNAL_OBJECTS = \
 "/mnt/local.isima.fr/thgonzales1/ZZ3/cpp/TP1/tp_1/build/CMakeFiles/common.dir/src/cartesien.cpp.o" \
+"/mnt/local.isima.fr/thgonzales1/ZZ3/cpp/TP1/tp_1/build/CMakeFiles/common.dir/src/nuage.cpp.o" \
 "/mnt/local.isima.fr/thgonzales1/ZZ3/cpp/TP1/tp_1/build/CMakeFiles/common.dir/src/point.cpp.o" \
 "/mnt/local.isima.fr/thgonzales1/ZZ3/cpp/TP1/tp_1/build/CMakeFiles/common.dir/src/polaire.cpp.o"
 
 tp1_vecteur: CMakeFiles/tp1_vecteur.dir/src/main_vecteur.cpp.o
 tp1_vecteur: CMakeFiles/common.dir/src/cartesien.cpp.o
+tp1_vecteur: CMakeFiles/common.dir/src/nuage.cpp.o
 tp1_vecteur: CMakeFiles/common.dir/src/point.cpp.o
 tp1_vecteur: CMakeFiles/common.dir/src/polaire.cpp.o
 tp1_vecteur: CMakeFiles/tp1_vecteur.dir/build.make

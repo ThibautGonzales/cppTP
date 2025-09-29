@@ -3,6 +3,7 @@
 
 #include <iostream>
 #include "point.hpp"
+#include "polaire.hpp"
 
 class Polaire;
 
@@ -13,11 +14,13 @@ class Cartesien : public Point{
     public:
         Cartesien();
         Cartesien(double x, double y);
-        void afficher(std::ostream& flux) const override;
+        Cartesien(const Polaire& p);
         void setX(double x);
         void setY(double y);
         double getX() const;
         double getY() const;
+        void afficher(std::ostream& flux) const override;
+        void convertir(Cartesien& p) const override;
         void convertir(Polaire& p) const override;
 };
 

@@ -7,4 +7,6 @@ std::ostream& operator<<(std::ostream& os, const Point& p) {
 
 void Point::afficher(std::ostream& flux) const{}
 
-void Point::convertir(Point& p) const{}
+void Point::convertir(Cartesien& p) const{}
+
+void Point::convertir(Polaire& p) const{}

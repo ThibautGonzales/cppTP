@@ -90,12 +90,14 @@ tp1_test_OBJECTS = \
 # External object files for target tp1_test
 tp1_test_EXTERNAL_OBJECTS = \
 "/mnt/local.isima.fr/thgonzales1/ZZ3/cpp/TP1/tp_1/build/CMakeFiles/common.dir/src/cartesien.cpp.o" \
+"/mnt/local.isima.fr/thgonzales1/ZZ3/cpp/TP1/tp_1/build/CMakeFiles/common.dir/src/nuage.cpp.o" \
 "/mnt/local.isima.fr/thgonzales1/ZZ3/cpp/TP1/tp_1/build/CMakeFiles/common.dir/src/point.cpp.o" \
 "/mnt/local.isima.fr/thgonzales1/ZZ3/cpp/TP1/tp_1/build/CMakeFiles/common.dir/src/polaire.cpp.o" \
 "/mnt/local.isima.fr/thgonzales1/ZZ3/cpp/TP1/tp_1/build/CMakeFiles/test.dir/test/catch.cpp.o"
 
 tp1_test: CMakeFiles/tp1_test.dir/test/tp1_test.cpp.o
 tp1_test: CMakeFiles/common.dir/src/cartesien.cpp.o
+tp1_test: CMakeFiles/common.dir/src/nuage.cpp.o
 tp1_test: CMakeFiles/common.dir/src/point.cpp.o
 tp1_test: CMakeFiles/common.dir/src/polaire.cpp.o
 tp1_test: CMakeFiles/test.dir/test/catch.cpp.o
