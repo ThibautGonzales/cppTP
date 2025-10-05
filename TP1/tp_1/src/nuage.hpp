@@ -4,6 +4,8 @@
 #include <vector>
 #include <iostream>
 #include "point.hpp"
+#include "cartesien.hpp"
+#include "polaire.hpp"
 
 class Nuage{
     public:
@@ -14,7 +16,7 @@ class Nuage{
         Points points;
     public:
         void ajouter(Point& p);
-        int size();
+        int size() const;
         const_iterator begin();
         const_iterator end();
 };

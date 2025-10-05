@@ -4,7 +4,7 @@ void Nuage::ajouter(Point& p){
     points.push_back(&p);
 }
 
-int Nuage::size(){
+int Nuage::size() const{
     return points.size();
 }
 

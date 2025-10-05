@@ -20,20 +20,6 @@ void Cartesien::afficher(std::ostream& flux) const{
     flux << "(x=" << this->getX() << ";y=" << this->getY() << ")";
 }
 
-void Cartesien::setX(double x){
-    this->x = x;
-}
-void Cartesien::setY(double y){
-    this->y = y;
-}
-
-double Cartesien::getX() const{
-    return this->x;
-}
-
-double Cartesien::getY() const{
-    return this->y;
-}
 
 void Cartesien::convertir(Polaire& p) const{
     p.setAngle(std::atan2(this->getY(), this->getX()) * 180 / M_PI);
