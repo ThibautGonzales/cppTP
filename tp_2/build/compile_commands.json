@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/mnt/local.isima.fr/thgonzales1/ZZ3/cpp/cppTP/TP2/tp_2/build",
+  "command": "/usr/bin/c++  -I/mnt/local.isima.fr/thgonzales1/ZZ3/cpp/cppTP/TP2/tp_2/src -Wall -Wextra -pedantic  -std=gnu++17 -o CMakeFiles/common.dir/src/cartesien.cpp.o -c /mnt/local.isima.fr/thgonzales1/ZZ3/cpp/cppTP/TP2/tp_2/src/cartesien.cpp",
+  "file": "/mnt/local.isima.fr/thgonzales1/ZZ3/cpp/cppTP/TP2/tp_2/src/cartesien.cpp"
+},
+{
+  "directory": "/mnt/local.isima.fr/thgonzales1/ZZ3/cpp/cppTP/TP2/tp_2/build",
+  "command": "/usr/bin/c++  -I/mnt/local.isima.fr/thgonzales1/ZZ3/cpp/cppTP/TP2/tp_2/src -Wall -Wextra -pedantic  -std=gnu++17 -o CMakeFiles/common.dir/src/point.cpp.o -c /mnt/local.isima.fr/thgonzales1/ZZ3/cpp/cppTP/TP2/tp_2/src/point.cpp",
+  "file": "/mnt/local.isima.fr/thgonzales1/ZZ3/cpp/cppTP/TP2/tp_2/src/point.cpp"
+},
+{
+  "directory": "/mnt/local.isima.fr/thgonzales1/ZZ3/cpp/cppTP/TP2/tp_2/build",
+  "command": "/usr/bin/c++  -I/mnt/local.isima.fr/thgonzales1/ZZ3/cpp/cppTP/TP2/tp_2/src -Wall -Wextra -pedantic  -std=gnu++17 -o CMakeFiles/common.dir/src/polaire.cpp.o -c /mnt/local.isima.fr/thgonzales1/ZZ3/cpp/cppTP/TP2/tp_2/src/polaire.cpp",
+  "file": "/mnt/local.isima.fr/thgonzales1/ZZ3/cpp/cppTP/TP2/tp_2/src/polaire.cpp"
+},
+{
+  "directory": "/mnt/local.isima.fr/thgonzales1/ZZ3/cpp/cppTP/TP2/tp_2/build",
+  "command": "/usr/bin/c++  -I/mnt/local.isima.fr/thgonzales1/ZZ3/cpp/cppTP/TP2/tp_2/src -Wall -Wextra -pedantic  -std=gnu++17 -o CMakeFiles/common.dir/src/nuage.cpp.o -c /mnt/local.isima.fr/thgonzales1/ZZ3/cpp/cppTP/TP2/tp_2/src/nuage.cpp",
+  "file": "/mnt/local.isima.fr/thgonzales1/ZZ3/cpp/cppTP/TP2/tp_2/src/nuage.cpp"
+},
+{
+  "directory": "/mnt/local.isima.fr/thgonzales1/ZZ3/cpp/cppTP/TP2/tp_2/build",
+  "command": "/usr/bin/c++  -I/mnt/local.isima.fr/thgonzales1/ZZ3/cpp/cppTP/TP2/tp_2/src -Wall -Wextra -pedantic  -std=gnu++17 -o CMakeFiles/common.dir/src/barycentre.cpp.o -c /mnt/local.isima.fr/thgonzales1/ZZ3/cpp/cppTP/TP2/tp_2/src/barycentre.cpp",
+  "file": "/mnt/local.isima.fr/thgonzales1/ZZ3/cpp/cppTP/TP2/tp_2/src/barycentre.cpp"
+},
+{
+  "directory": "/mnt/local.isima.fr/thgonzales1/ZZ3/cpp/cppTP/TP2/tp_2/build",
+  "command": "/usr/bin/c++   -Wall -Wextra -pedantic  -std=gnu++17 -o CMakeFiles/test.dir/test/catch.cpp.o -c /mnt/local.isima.fr/thgonzales1/ZZ3/cpp/cppTP/TP2/tp_2/test/catch.cpp",
+  "file": "/mnt/local.isima.fr/thgonzales1/ZZ3/cpp/cppTP/TP2/tp_2/test/catch.cpp"
+},
+{
+  "directory": "/mnt/local.isima.fr/thgonzales1/ZZ3/cpp/cppTP/TP2/tp_2/build",
+  "command": "/usr/bin/c++  -I/mnt/local.isima.fr/thgonzales1/ZZ3/cpp/cppTP/TP2/tp_2/src -Wall -Wextra -pedantic  -std=gnu++17 -o CMakeFiles/tp2_nuage.dir/src/main_nuage.cpp.o -c /mnt/local.isima.fr/thgonzales1/ZZ3/cpp/cppTP/TP2/tp_2/src/main_nuage.cpp",
+  "file": "/mnt/local.isima.fr/thgonzales1/ZZ3/cpp/cppTP/TP2/tp_2/src/main_nuage.cpp"
+},
+{
+  "directory": "/mnt/local.isima.fr/thgonzales1/ZZ3/cpp/cppTP/TP2/tp_2/build",
+  "command": "/usr/bin/c++  -I/mnt/local.isima.fr/thgonzales1/ZZ3/cpp/cppTP/TP2/tp_2/src -Wall -Wextra -pedantic  -std=gnu++17 -o CMakeFiles/tp2_test.dir/test/tp2_test.cpp.o -c /mnt/local.isima.fr/thgonzales1/ZZ3/cpp/cppTP/TP2/tp_2/test/tp2_test.cpp",
+  "file": "/mnt/local.isima.fr/thgonzales1/ZZ3/cpp/cppTP/TP2/tp_2/test/tp2_test.cpp"
+}
+]
