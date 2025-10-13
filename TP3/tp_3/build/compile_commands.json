@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/mnt/local.isima.fr/thgonzales1/ZZ3/cpp/cppTP/TP3/tp_3/build",
+  "command": "/usr/bin/c++   -Wall -Wextra -pedantic  -std=gnu++17 -o CMakeFiles/test.dir/test/catch.cpp.o -c /mnt/local.isima.fr/thgonzales1/ZZ3/cpp/cppTP/TP3/tp_3/test/catch.cpp",
+  "file": "/mnt/local.isima.fr/thgonzales1/ZZ3/cpp/cppTP/TP3/tp_3/test/catch.cpp"
+},
+{
+  "directory": "/mnt/local.isima.fr/thgonzales1/ZZ3/cpp/cppTP/TP3/tp_3/build",
+  "command": "/usr/bin/c++  -I/mnt/local.isima.fr/thgonzales1/ZZ3/cpp/cppTP/TP3/tp_3/src -Wall -Wextra -pedantic  -std=gnu++17 -o CMakeFiles/tp3_test.dir/test/tp3_test.cpp.o -c /mnt/local.isima.fr/thgonzales1/ZZ3/cpp/cppTP/TP3/tp_3/test/tp3_test.cpp",
+  "file": "/mnt/local.isima.fr/thgonzales1/ZZ3/cpp/cppTP/TP3/tp_3/test/tp3_test.cpp"
+}
+]
