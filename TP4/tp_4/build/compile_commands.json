@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/local.isima.fr/thgonzales1/Desktop/cppTP/TP4/tp_4/build",
+  "command": "/usr/bin/c++   -Wall -Wextra -pedantic  -std=gnu++17 -o CMakeFiles/test.dir/test/catch.cpp.o -c /home/local.isima.fr/thgonzales1/Desktop/cppTP/TP4/tp_4/test/catch.cpp",
+  "file": "/home/local.isima.fr/thgonzales1/Desktop/cppTP/TP4/tp_4/test/catch.cpp"
+},
+{
+  "directory": "/home/local.isima.fr/thgonzales1/Desktop/cppTP/TP4/tp_4/build",
+  "command": "/usr/bin/c++  -I/home/local.isima.fr/thgonzales1/Desktop/cppTP/TP4/tp_4/src -Wall -Wextra -pedantic  -std=gnu++17 -o CMakeFiles/tp4_mouchard.dir/test/test_mouchard.cpp.o -c /home/local.isima.fr/thgonzales1/Desktop/cppTP/TP4/tp_4/test/test_mouchard.cpp",
+  "file": "/home/local.isima.fr/thgonzales1/Desktop/cppTP/TP4/tp_4/test/test_mouchard.cpp"
+},
+{
+  "directory": "/home/local.isima.fr/thgonzales1/Desktop/cppTP/TP4/tp_4/build",
+  "command": "/usr/bin/c++  -I/home/local.isima.fr/thgonzales1/Desktop/cppTP/TP4/tp_4/src -Wall -Wextra -pedantic  -std=gnu++17 -o CMakeFiles/tp4_vecteur.dir/test/test_vecteur.cpp.o -c /home/local.isima.fr/thgonzales1/Desktop/cppTP/TP4/tp_4/test/test_vecteur.cpp",
+  "file": "/home/local.isima.fr/thgonzales1/Desktop/cppTP/TP4/tp_4/test/test_vecteur.cpp"
+},
+{
+  "directory": "/home/local.isima.fr/thgonzales1/Desktop/cppTP/TP4/tp_4/build",
+  "command": "/usr/bin/c++  -I/home/local.isima.fr/thgonzales1/Desktop/cppTP/TP4/tp_4/src -Wall -Wextra -pedantic  -std=gnu++17 -o CMakeFiles/tp4_test.dir/test/tp4_test.cpp.o -c /home/local.isima.fr/thgonzales1/Desktop/cppTP/TP4/tp_4/test/tp4_test.cpp",
+  "file": "/home/local.isima.fr/thgonzales1/Desktop/cppTP/TP4/tp_4/test/tp4_test.cpp"
+}
+]
