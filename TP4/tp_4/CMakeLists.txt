@@ -15,21 +15,21 @@ endif ()
 
 # Sources #-----------------------------------------------------------------------------------------
 set ( PROJECT_HEADERS
-      #src/carte.hpp
+      src/Carte.hpp
       src/complexe.hpp
-      #src/consommateur.hpp
+      src/consommateur.hpp
       src/mouchard.hpp
-      #src/paquet.hpp
-      #src/ressource.hpp
-      #src/usine.hpp
+      src/paquet.hpp
+      src/ressource.hpp
+      src/UsineCarte.hpp
       src/vecteur.hpp
     )
 
 set ( PROJECT_SOURCES
-      #src/carte.cpp
-      #src/paquet.cpp
-      #src/ressource.cpp
-      #src/usine.cpp
+      src/Carte.cpp
+      src/paquet.cpp
+      src/ressource.cpp
+      src/UsineCarte.cpp
     )
 
 set ( TEST_HEADERS
