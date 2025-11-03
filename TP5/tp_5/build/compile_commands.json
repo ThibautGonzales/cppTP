@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/home/local.isima.fr/thgonzales1/Desktop/cppTP-main/TP5/tp_5/build",
+  "command": "/usr/bin/c++  -I/home/local.isima.fr/thgonzales1/Desktop/cppTP-main/TP5/tp_5/src -Wall -Wextra -pedantic  -std=gnu++17 -o CMakeFiles/common.dir/src/valeur.cpp.o -c /home/local.isima.fr/thgonzales1/Desktop/cppTP-main/TP5/tp_5/src/valeur.cpp",
+  "file": "/home/local.isima.fr/thgonzales1/Desktop/cppTP-main/TP5/tp_5/src/valeur.cpp"
+},
+{
+  "directory": "/home/local.isima.fr/thgonzales1/Desktop/cppTP-main/TP5/tp_5/build",
+  "command": "/usr/bin/c++  -I/home/local.isima.fr/thgonzales1/Desktop/cppTP-main/TP5/tp_5/src -Wall -Wextra -pedantic  -std=gnu++17 -o CMakeFiles/common.dir/src/echantillon.cpp.o -c /home/local.isima.fr/thgonzales1/Desktop/cppTP-main/TP5/tp_5/src/echantillon.cpp",
+  "file": "/home/local.isima.fr/thgonzales1/Desktop/cppTP-main/TP5/tp_5/src/echantillon.cpp"
+},
+{
+  "directory": "/home/local.isima.fr/thgonzales1/Desktop/cppTP-main/TP5/tp_5/build",
+  "command": "/usr/bin/c++  -I/home/local.isima.fr/thgonzales1/Desktop/cppTP-main/TP5/tp_5/src -Wall -Wextra -pedantic  -std=gnu++17 -o CMakeFiles/common.dir/src/classe.cpp.o -c /home/local.isima.fr/thgonzales1/Desktop/cppTP-main/TP5/tp_5/src/classe.cpp",
+  "file": "/home/local.isima.fr/thgonzales1/Desktop/cppTP-main/TP5/tp_5/src/classe.cpp"
+},
+{
+  "directory": "/home/local.isima.fr/thgonzales1/Desktop/cppTP-main/TP5/tp_5/build",
+  "command": "/usr/bin/c++  -I/home/local.isima.fr/thgonzales1/Desktop/cppTP-main/TP5/tp_5/src -Wall -Wextra -pedantic  -std=gnu++17 -o CMakeFiles/common.dir/src/histogramme.cpp.o -c /home/local.isima.fr/thgonzales1/Desktop/cppTP-main/TP5/tp_5/src/histogramme.cpp",
+  "file": "/home/local.isima.fr/thgonzales1/Desktop/cppTP-main/TP5/tp_5/src/histogramme.cpp"
+},
+{
+  "directory": "/home/local.isima.fr/thgonzales1/Desktop/cppTP-main/TP5/tp_5/build",
+  "command": "/usr/bin/c++   -Wall -Wextra -pedantic  -std=gnu++17 -o CMakeFiles/test.dir/test/catch.cpp.o -c /home/local.isima.fr/thgonzales1/Desktop/cppTP-main/TP5/tp_5/test/catch.cpp",
+  "file": "/home/local.isima.fr/thgonzales1/Desktop/cppTP-main/TP5/tp_5/test/catch.cpp"
+},
+{
+  "directory": "/home/local.isima.fr/thgonzales1/Desktop/cppTP-main/TP5/tp_5/build",
+  "command": "/usr/bin/c++  -I/home/local.isima.fr/thgonzales1/Desktop/cppTP-main/TP5/tp_5/src -Wall -Wextra -pedantic  -std=gnu++17 -o CMakeFiles/tp5_histo.dir/src/main_histo.cpp.o -c /home/local.isima.fr/thgonzales1/Desktop/cppTP-main/TP5/tp_5/src/main_histo.cpp",
+  "file": "/home/local.isima.fr/thgonzales1/Desktop/cppTP-main/TP5/tp_5/src/main_histo.cpp"
+},
+{
+  "directory": "/home/local.isima.fr/thgonzales1/Desktop/cppTP-main/TP5/tp_5/build",
+  "command": "/usr/bin/c++  -I/home/local.isima.fr/thgonzales1/Desktop/cppTP-main/TP5/tp_5/src -Wall -Wextra -pedantic  -std=gnu++17 -o CMakeFiles/tp5_test.dir/test/tp5_test.cpp.o -c /home/local.isima.fr/thgonzales1/Desktop/cppTP-main/TP5/tp_5/test/tp5_test.cpp",
+  "file": "/home/local.isima.fr/thgonzales1/Desktop/cppTP-main/TP5/tp_5/test/tp5_test.cpp"
+}
+]
