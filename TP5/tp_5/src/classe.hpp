@@ -14,6 +14,7 @@ class Classe{
     //Methodes
     public:
         Classe(double inf, double sup);
+        Classe(double inf, double sup, unsigned q);
         double getBorneInf() const;
         double getBorneSup() const;
         unsigned getQuantite() const;
@@ -21,6 +22,8 @@ class Classe{
         void setBorneSup(double sup);
         void setQuantite(unsigned q);
         void ajouter();
+        bool operator<(const Classe& b) const;
+        bool operator>(const Classe& b) const;
 
     private:
 
